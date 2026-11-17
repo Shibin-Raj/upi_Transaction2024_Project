@@ -78,31 +78,31 @@ Provides a dedicated showcase page for presenting the dashboard project.
 
 ### Welcome Page
 
-![Welcome Page](screenshots/01-welcome.png)
+![Welcome Page](Assets/home.png)
 
 ### Overview Dashboard
 
-![Overview Dashboard](screenshots/02-overview.png)
+![Overview Dashboard](Assets/overview.png)
 
 ### Customer Dashboard
 
-![Customer Dashboard](screenshots/03-customer.png)
+![Customer Dashboard](Assets/customer.png)
 
 ### Bank & App Dashboard
 
-![Bank & App Dashboard](screenshots/04-bank-app.png)
+![Bank & App Dashboard](Assets/bank&app.png)
 
 ### Location Dashboard
 
-![Location Dashboard](screenshots/05-location.png)
+![Location Dashboard](Assets/location.png)
 
 ### Merchant Dashboard
 
-![Merchant Dashboard](screenshots/06-merchant.png)
+![Merchant Dashboard](Assets/merchant.png)
 
 ### Showcase Page
 
-![Showcase Page](screenshots/07-showcase.png)
+![Showcase Page](Assets/showcase.png)
 
 ## 📂 Project Structure
 
@@ -123,6 +123,4 @@ UPI-Transaction-Analytics/
 └── README.md
 ```
 
----
 
-⭐ If you find this project useful, feel free to star this repository!
