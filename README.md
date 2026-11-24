@@ -82,7 +82,7 @@ Provides a dedicated showcase page for presenting the dashboard project.
 
 ### Overview Dashboard
 
-![Overview Dashboard](Assets/.png)
+![Overview Dashboard](Assets/overview2.png)
 
 ### Customer Dashboard
 
